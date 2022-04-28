@@ -1,7 +1,5 @@
 <p align="center">
 
-<!-- ![Naive Resume Matcher Logo](Images/rm_logo.png) -->
-<img src="Images/rm_logo.png"/>
 </p>
 
 # Naive-Resume-Matcher
