@@ -13,10 +13,6 @@ import Similar
 from PIL import Image
 import time
 
-
-image = Image.open('Images//logo.png')
-st.image(image, use_column_width=True)
-
 st.title("Resume Matcher")
 
 
